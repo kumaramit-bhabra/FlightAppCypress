@@ -1,0 +1,15 @@
+{
+  "name": "flightappcypress",
+  "version": "1.0.0",
+  "description": "Flight App Using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "runTCWOTestRunner": "node_modules/.bin/cypress run",
+    "openTestRunner": "node_modules/.bin/cypress open"
+  },
+  "author": "Kumar Amit",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^3.4.1"
+  }
+}
